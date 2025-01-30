@@ -1,4 +1,4 @@
-# TOPSIS - Text Sentence Similarity (Technique for Order Preference by Similarity to Ideal Solution)
+# TOPSIS - Text Sentence Similarity
 
 ## Overview
 This repository contains a Python implementation of the TOPSIS method, a multi-criteria decision analysis technique. The script evaluates multiple models or alternatives based on various metrics, assigns a performance score to each, and ranks them according to their closeness to the ideal solution.
