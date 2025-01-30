@@ -31,7 +31,7 @@ pip install numpy pandas
 ## Usage
 Run the script using the command line with the following format:
 ```bash
-python text_similarity.py <input_file> <weights> <impacts> <output_file>
+python topsis.py <input_file> <weights> <impacts> <output_file>
 ```
 
 ### Arguments
@@ -54,7 +54,7 @@ python text_similarity.py <input_file> <weights> <impacts> <output_file>
 
 ### Example
 ```bash
-python topsis.py data.csv 0.3,0.2,0.1,0.1,0.1,0.1,0.1 +,+,-,-,+,+,- results.csv
+python text_similarity.py data.csv 0.3,0.2,0.1,0.1,0.1,0.1,0.1 +,+,-,-,+,+,- results.csv
 ```
 
 ---
