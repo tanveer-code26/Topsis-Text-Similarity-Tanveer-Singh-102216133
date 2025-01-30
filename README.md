@@ -20,7 +20,7 @@ The script requires the following Python libraries:
 
 Clone the repository:
    ```bash
-   git clone https://github.com/tanveer-code26/Sampling-Tanveer-Singh-102216133
+   git clone https://github.com/tanveer-code26/Topsis-Text-Similarity-Tanveer-Singh-102216133
    ```
    
 To install the dependencies, use:
